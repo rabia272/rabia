@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">FypProj</string>
+
+    <string-array name="services_name">
+        <item> Flat Tyre </item>
+        <item> Car Breakdown </item>
+        <item> Battery Jumper </item>
+        <item> Out Of Fuel </item>
+        <item> Key Lockout </item>
+        <item> Car Towing </item>
+    </string-array>
+    <string-array name="bike_services_name">
+        <item> Tyre Puncture</item>
+        <item> Out Of Fuel </item>
+        <item> Breaks Fail </item>
+        <item> Battery Issue </item>
+        <item> Gear Isssue </item>
+        <item>Chain Issue</item>
+
+    </string-array>
+    <string-array name="Car_Breakdown_Fault">
+        <item> Mechanical Fault Upto 1500 cc</item>
+        <item> Mechanical Fault Upto 1800 cc  </item>
+        <item>  Electrical Fault Upto 1500 cc</item>
+        <item>  Electrical Fault Upto 1800 cc </item>
+
+    </string-array>
+    <string-array name="Car_Breakdown_Fault_Prices">
+        <item> Rs 1500</item>
+        <item> Rs 2500 </item>
+        <item> Rs 1700</item>
+        <item>  Rs 2700 </item>
+
+    </string-array>
+
+
+    <string-array name="Battery_Jumper_Fault">
+        <item> Battery Jumpstart Upto Fault Upto 1500 cc</item>
+        <item> Battery Jumpstart  1501 cc +</item>
+
+    </string-array>
+
+    <string-array name="Battery_Jumper_Fault_Prices">
+        <item>Rs 800</item>
+        <item> Rs 1200</item>
+
+    </string-array>
+
+    <string-array name="Car_Towing_Fault">
+        <item> Towing Upto 10km</item>
+        <item> Towing Upto 25km</item>
+        <item> Towing Upto 30km</item>
+
+
+    </string-array>
+
+    <string-array name="Car_Towing_Fault_Prices">
+        <item>Rs 3000</item>
+        <item> Rs 4000</item>
+        <item> Rs 5000</item>
+
+
+    </string-array>
+    <string-array name="Flat_Tyre_Fault">
+        <item> Flat Tyre Service</item>
+        <item>Luxury Cars Service </item>
+
+    </string-array>
+
+    <string-array name="Flat_Tyre_Fault_Prices">
+        <item> Rs 600</item>
+        <item>Rs 800</item>
+
+    </string-array>
+    <string-array name="Key_Lockout_Fault">
+        <item> Key Lockout Fault Upto 1000 cc</item>
+        <item>  Key Lockout Fault Upto 1800 cc </item>
+        <item>Luxury Cars Service </item>
+
+    </string-array>
+
+    <string-array name="Key_Lockout_Fault_Prices">
+        <item> Rs 700</item>
+        <item> Rs 1200</item>
+        <item>Rs 2000</item>
+
+    </string-array>
+    <string-array name="Out_Of_Fuel_Fault">
+        <item> Empty Tank - Petrol Price Not Included</item>
+
+
+    </string-array>
+    <string-array name="Out_Of_Fuel_Fault_Prices">
+        <item> Rs 400</item>
+
+
+    </string-array>
+
+</resources>
